@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+.done {
+    background-color: green;
+}
+.not-done {
+    background-color: yellow;
+}
